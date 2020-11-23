@@ -75,7 +75,7 @@ body {
 }
 
 .imagelinks img {
-    width: 18%!important;
+    width: 16%!important;
 }
 
 .address ul li {
@@ -134,6 +134,7 @@ body {
 }
 
 .powered {
+    font-size: 13px;
     color: #f17f08!important;
 }
 
@@ -141,10 +142,11 @@ body {
     font-size: large;
     font-weight: 800;
     color: #14777f;
+    font-size: 15px !important;
 }
 
 .accredition_text {
-    font-size: 10px;
+    font-size: 16px;
 }
 
 .imagelinks img {
@@ -180,7 +182,7 @@ body {
 }
 
 img.naacmob {
-    width: 24% !important;
+    width: 30% !important;
 }
 
 @media (min-width: 320px) and (max-width: 768px) {
@@ -203,7 +205,7 @@ img.naacmob {
         line-height: 20px !important;
     }
     .genesis {
-        font-size: 17px;
+        font-size: 14px !important;
         font-weight: 700;
         padding-left: -30px;
     }
@@ -212,7 +214,25 @@ img.naacmob {
         font-weight: 600;
     }
     img.naacmob {
-        width: 24% !important;
+        width: 28% !important;
+    }
+    .paybutton{
+        width: 100px !important;    
+        margin-bottom: -9px !important;
+    }
+    .accredition_text {
+        font-size: 9px;
+    }
+    .powered {
+        font-size: 12px;
+        color: #f17f08!important;
+    }
+    
+}
+
+@media (min-width: 440px) and (max-width: 600px) {
+    .imagelinks {
+        width: 15% !important;
     }
 }
 
@@ -240,7 +260,7 @@ img.naacmob {
         display: none;
     }
     img.naacmob {
-        width: 22% !important;
+        width: 30% !important;
     }
     .imagelinks img {
         padding-top: 28px!important;
