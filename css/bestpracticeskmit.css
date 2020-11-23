@@ -1,0 +1,27 @@
+.bestpracticeskmit[_ngcontent-c5] div[_ngcontent-c5] a[_ngcontent-c5] {
+    color: teal;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .bestpracticeskmit[_ngcontent-c5] div[_ngcontent-c5] {
+    border: 2px solid teal;
+    padding: 5px;
+  }
+  .bestpracticeskmit[_ngcontent-c5] div[_ngcontent-c5] {
+    float: left;
+    margin: 4px;
+  }
+  .bestpracticeskmit[_ngcontent-c5]
+    div[_ngcontent-c5]:hover
+    a[_ngcontent-c5] {
+    background: teal !important;
+    color: #fff !important;
+    cursor: pointer;
+  }
+  .bestpracticeskmit[_ngcontent-c5] div[_ngcontent-c5]:hover,
+  .bestpracticeskmit[_ngcontent-c5] .first[_ngcontent-c5],
+  .bestpracticeskmit[_ngcontent-c5] .first[_ngcontent-c5] a[_ngcontent-c5] {
+    background: teal !important;
+    color: #fff !important;
+    cursor: pointer;
+  }

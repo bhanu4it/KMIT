@@ -1,0 +1,16 @@
+{"Academic-Core_Committee":
+[
+{
+    "id": "1",
+    "MemberName": "Dr JVS Srinivas",
+    "Dept": "CSE",
+    "Position": "Convener"
+},
+{
+    "id": "2",
+    "MemberName": "test",
+    "Dept": "--",
+    "Position": "--"
+}
+]
+}

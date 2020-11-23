@@ -1,0 +1,16 @@
+{"NSS-Committee":
+[
+{
+    "id": "1",
+    "MemberName": "Mr K Siva Ramakrishna",
+    "Dept": "IT",
+    "Position": "Convener"
+},
+{
+    "id": "2",
+    "MemberName": "test",
+    "Dept": "--",
+    "Position": "--"
+}
+]
+}

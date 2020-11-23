@@ -1,0 +1,52 @@
+.recruiter-outer[_ngcontent-c1] {
+    padding: 10px 5px;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    flex-basis: 100px;
+  }
+  .recruiters[_ngcontent-c1] {
+    flex-basis: 150px;
+    text-align: center;
+    padding: 0 10px;
+  }
+  .recruiters[_ngcontent-c1] img[_ngcontent-c1] {
+    width: 100% !important;
+    max-height: 80px;
+  }
+  .recruiters[_ngcontent-c1] .companylabel[_ngcontent-c1] {
+    font-weight: 600;
+    font-size: 14px;
+    display: block;
+  }
+  .mous[_ngcontent-c1] {
+    float: right;
+    padding-left: 15px;
+  }
+  .mous[_ngcontent-c1] a[_ngcontent-c1] {
+    padding: 4px;
+  }
+  .mous[_ngcontent-c1] img[_ngcontent-c1] {
+    height: 45px;
+    width: 60px;
+  }
+  .navbar[_ngcontent-c1] {
+    padding-left: 10px;
+  }
+  .nav-item[_ngcontent-c1] a[_ngcontent-c1] {
+    font-size: 9px;
+    font-weight: 600;
+  }
+  .dropdown-toggle[_ngcontent-c1]::after[a] {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 0.355em;
+    vertical-align: 0;
+    content: "";
+    border-right: 0.3em solid transparent;
+    border-bottom: 0.3em solid transparent;
+    border-top: 0.3em solid transparent;
+    border-left: 0.3em solid;
+  }

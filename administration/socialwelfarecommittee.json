@@ -1,0 +1,16 @@
+{"Social-Welfare-Committee":
+[
+{
+    "id": "1",
+    "MemberName": "Mr K Yakaiah",
+    "Dept": "ECE",
+    "Position": "Convener"
+},
+{
+    "id": "2",
+    "MemberName": "test",
+    "Dept": "--",
+    "Position": "--"
+}
+]
+}

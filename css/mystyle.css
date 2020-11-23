@@ -1,0 +1,324 @@
+@font-face {
+    font-family: "sofia-pro";
+    src: url(../fonts/3AE7E3_6_0.woff2) format("woff2"), url(../fonts/3AE7E3_6_0.woff) format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "sofia-pro";
+    src: url(../fonts/3AE7E3_A_0.woff2) format("woff2"), url(../fonts/3AE7E3_A_0.woff) format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: "sofia-pro";
+    src: url(../fonts/3AE7E3_7_0.woff2) format("woff2"), url(../fonts/3AE7E3_7_0.woff) format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: "sofia-pro";
+    src: url(../fonts/3AE7E3_C_0.woff2) format("woff2"), url(../fonts/3AE7E3_C_0.woff) format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: "sofia-pro";
+    src: url(../fonts/3AE7E3_1_0.woff2) format("woff2"), url(../fonts/3AE7E3_1_0.woff) format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: "sofia-pro";
+    src: url(../fonts/3AE7E3_5_0.woff2) format("woff2"), url(../fonts/3AE7E3_5_0.woff) format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap
+}
+
+body {
+    font-family: Lato, sans-serif!important;
+}
+
+.linestyle {
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.kmitfont {
+    padding: 0px 10px;
+}
+
+.address {
+    float: left;
+    height: auto;
+    padding: 5px;
+}
+
+.address ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.imagelinks img {
+    width: 18%!important;
+}
+
+.imagelinks img {
+    width: 18%!important;
+}
+
+.address ul li {
+    display: inline-block;
+}
+
+.address ul li a {
+    font-size: 12px;
+    display: block;
+    line-height: 32px;
+    color: #666;
+}
+
+.address ul li a:before {
+    position: relative;
+    content: "|";
+    font-size: 13px;
+    margin: 0 3px;
+    top: -1px;
+    color: #ddd;
+}
+
+.address ul li:first-child a:before {
+    display: none;
+}
+
+.payfee {
+    float: left;
+    height: auto;
+    text-align: right;
+    padding: 5px;
+    line-height: 25px;
+}
+
+.payfee b {
+    font-weight: normal;
+    padding-top: 5px;
+}
+
+.kmitfont {
+    font-size: large;
+    color: #14777f;
+    font-weight: 900;
+}
+
+.collegename {
+    float: left;
+    text-align: right;
+}
+
+.collname {
+    font-size: 22px;
+    font-weight: 600;
+    color: #14777f;
+    font-family: Lato, sans-serif!important;
+}
+
+.powered {
+    color: #f17f08!important;
+}
+
+.genesis {
+    font-size: large;
+    font-weight: 800;
+    color: #14777f;
+}
+
+.accredition_text {
+    font-size: 10px;
+}
+
+.imagelinks img {
+    align-items: center;
+    padding-top: 15px;
+}
+
+.homebtn {
+    margin-top: 7px;
+}
+
+.imagelinks a {}
+
+.marquee-scroll-RL {
+    font-weight: bold;
+    padding: 3px;
+    margin-bottom: -6px;
+    font-size: 14px;
+}
+
+.scroll1 {
+    color: #fa0000;
+    background: #fff;
+}
+
+.scroll2 {
+    color: #fff;
+    background: #003434;
+}
+
+.logo-img img {
+    width: 60%;
+}
+
+img.naacmob {
+    width: 24% !important;
+}
+
+@media (min-width: 320px) and (max-width: 768px) {
+    .address {
+        display: none;
+    }
+    .payfee {
+        display: none;
+    }
+    .logo-img a img {
+        margin-top: 10px;
+        float: left;
+    }
+    .logo-img img {
+        width: 90%;
+    }
+    .collname {
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 20px !important;
+    }
+    .genesis {
+        font-size: 17px;
+        font-weight: 700;
+        padding-left: -30px;
+    }
+    .feespay {
+        text-align: center !important;
+        font-weight: 600;
+    }
+    img.naacmob {
+        width: 24% !important;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 767px) {
+    .sm-councelling-code span {
+        padding-left: 100px;
+        padding-top: 14px !important;
+    }
+    .logo-img img {
+        width: 70% !important;
+    }
+    .imagelinks {
+        margin-top: -20px !important;
+    }
+    .imagelinks img {
+        padding-top: -20px!important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .logo-img img {
+        width: 100%;
+    }
+    .payfee {
+        display: none;
+    }
+    img.naacmob {
+        width: 22% !important;
+    }
+    .imagelinks img {
+        padding-top: 28px!important;
+    }
+    .collname {
+        font-size: 16px!important;
+    }
+    .sm-councelling-code span {
+        padding-top: 6px !important;
+    }
+    .linestyle .new-col-md-12 {
+        width: 100% !important;
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+    .imagelinks img {
+        align-items: center;
+        padding-top: 54px;
+        width: 18%;
+    }
+    .sm-councelling-code {
+        display: flex!important;
+    }
+    .navbar-toggler {
+        margin-right: 400px !important;
+    }
+    .accredition_text {
+        font-size: 11px !important;
+    }
+    .navbar a,
+    .navbar ul li a,
+    .navbar-expand-lg .navbar-nav .nav-link,
+    .navbar-nav>li>a {
+        padding-top: 3px!important;
+    }
+    .setht {
+        height: 46px;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+    .logo {
+        width: 100%!important;
+    }
+    .imagelinks img {
+        align-items: center;
+        width: 19%;
+        padding: 3px;
+    }
+    .p-sm-0 {
+        padding: 0px !important
+    }
+    .navbar a,
+    .navbar ul li a,
+    .navbar-expand-lg .navbar-nav .nav-link,
+    .navbar-nav>li>a {
+        padding-top: 5px!important;
+    }
+    .sm-councelling-code span {
+        padding-top: 6px;
+    }
+    .navbar {
+        min-height: 50px;
+    }
+}
+
+.top-header {
+    background-color: #ededed;
+}
+
+.collegename div {
+    margin: -5px!important;
+}
+
+.navbar .collapse ul ul ul>li:hover>a,
+.navbar .collapse ul ul>li:hover>a,
+.navbar .collapse ul>li:hover>a,
+.navbar-default .navbar-nav .show .dropdown-menu>li>a:focus,
+.navbar-default .navbar-nav .show .dropdown-menu>li>a:hover {
+    width: 40%;
+}

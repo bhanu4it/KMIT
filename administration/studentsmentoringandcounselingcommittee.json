@@ -1,0 +1,16 @@
+{"Students-Mentoring-and-Counseling-Committee":
+[
+{
+    "id": "1",
+    "MemberName": "Dr Subba Rao",
+    "Dept": "CSE",
+    "Position": "Convener"
+},
+{
+    "id": "2",
+    "MemberName": "test",
+    "Dept": "--",
+    "Position": "--"
+}
+]
+}

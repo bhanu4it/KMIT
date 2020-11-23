@@ -1,0 +1,1184 @@
+{
+    "administration": [{
+            "id": "1",
+            "name": "KMES",
+            "url": "/administration/kmes.php",
+            "submenu": ""
+        },
+        {
+            "id": "2",
+            "name": "Founder",
+            "url": "/administration/Founder.php",
+            "submenu": ""
+        },
+        {
+            "id": "3",
+            "name": "Director",
+            "url": "/administration/director.php",
+            "submenu": ""
+        },
+        {
+            "id": "4",
+            "name": "Principal",
+            "url": "/administration/principal.php",
+            "submenu": ""
+        },
+        {
+            "id": "5",
+            "name": "Heads of the Department",
+            "url": "/administration/hod.php",
+            "submenu": ""
+        },
+        {
+            "id": "6",
+            "name": "Committees",
+            "url": "/administration/committees.php",
+            "submenu": ""
+        },
+        {
+            "id": "7",
+            "name": "idmc",
+            "url": "/administration/idmc.php",
+            "submenu": ""
+        },
+        {
+            "id": "8",
+            "name": "Perspective plan",
+            "url": "/administration/perspectiveplan.php",
+            "submenu": ""
+        },
+        {
+            "id": "9",
+            "name": "HR Policy",
+            "url": "/administration/hrpolicy.php",
+            "submenu": ""
+        }
+    ],
+
+    "admissions": [{
+            "id": "1",
+            "name": "Courses Offered",
+            "url": "/admissions/coursesoffered.php",
+            "submenu": ""
+        },
+        {
+            "id": "2",
+            "name": "Admission Procedure",
+            "url": "/admissions/admission-procedure.php",
+            "submenu": ""
+        },
+        {
+            "id": "3",
+            "name": "Fee Structure",
+            "url": "/admissions/fee-structure.php",
+            "submenu": ""
+        },
+        {
+            "id": "4",
+            "name": "EAMCET Last Rank",
+            "url": "/admissions/eamcet-lastrank.php",
+            "submenu": ""
+        },
+        {
+            "id": "5",
+            "name": "ECET Last Rank",
+            "url": "/admissions/ecet-lastrank.php",
+            "submenu": ""
+        }
+    ],
+
+    "academics": [{
+            "id": "1",
+            "name": "regulations",
+            "url": "/academics/regulations.php",
+            "submenu": ""
+        },
+        {
+            "id": "2",
+            "name": "academic calenders",
+            "url": "/academics/academic-calender.php",
+            "submenu": ""
+        },
+        {
+            "id": "3",
+            "name": "syllabus",
+            "url": "/academics/syllabus.php",
+            "submenu": ""
+        },
+        {
+            "id": "4",
+            "name": "scholarships",
+            "url": "/academics/scholarships.php",
+            "submenu": ""
+        },
+        {
+            "id": "5",
+            "name": "value-added services",
+            "url": "/academics/value- addedservices.php",
+            "submenu": ""
+        },
+        {
+            "id": "6",
+            "name": "endowment awards",
+            "url": "/academics/endowment-awards.php",
+            "submenu": ""
+        }
+    ],
+    "examinations": [{
+            "id": "1",
+            "name": "exam notifications",
+            "url": "/examination/examnotification.php",
+            "submenu": ""
+        },
+        {
+            "id": "2",
+            "name": "Exam Time Tables",
+            "url": "/examination/download.php",
+            "submenu": ""
+        },
+        {
+            "id": "3",
+            "name": "results",
+            "url": "/examination/results.php",
+            "submenu": ""
+        }
+
+    ],
+    "departments": [{
+            "id": "1",
+            "name": "cse",
+            "url": "",
+            "submenu": [{
+                    "id": "1",
+                    "name": "about cse",
+                    "url": "/department/about_cse.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "2",
+                    "name": "faculty",
+                    "url": "/department/faculty_cse.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "3",
+                    "name": "achievements",
+                    "url": "",
+                    "submenu": [{
+                            "id": "1",
+                            "name": "Students Achievements",
+                            "url": "/department/achievestu_cse_2019-20.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "Faculty Achievements",
+                            "url": "/department/achievefac_cse.php",
+                            "submenu": ""
+                        }
+                    ]
+                },
+
+                {
+
+                    "id": "4",
+                    "name": "acdemics",
+                    "url": "",
+                    "submenu": [{
+                            "id": "1",
+                            "name": "e-resources",
+                            "url": "/department/eresource_cse.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "syllabus",
+                            "url": "/department/syllabus_cse.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "library",
+                            "url": "/department/library_cse.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "4",
+                            "name": "timetables",
+                            "url": "/department/timetable_cse.php",
+                            "submenu": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "5",
+                    "name": "events",
+                    "url": "/department/events_cse.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "6",
+                    "name": "facilities",
+                    "url": "/department/facilities_cse.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "7",
+                    "name": "publications",
+                    "url": "/department/pulblication_cse.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "8",
+                    "name": "contactus",
+                    "url": "/department/contactus_cse.php",
+                    "submenu": ""
+
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "csm",
+            "url": "",
+            "submenu": [{
+                    "id": "1",
+                    "name": "about csm",
+                    "url": "/department/about_csm.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "2",
+                    "name": "faculty",
+                    "url": "/department/faculty_csm.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "3",
+                    "name": "achievements",
+                    "url": "",
+                    "submenu": [{
+                            "id": "1",
+                            "name": "Students Achievements",
+                            "url": "/department/achievestu_csm.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "Faculty Achievements",
+                            "url": "/department/achievefac_csm.php",
+                            "submenu": ""
+                        }
+                    ]
+                },
+                {
+
+                    "id": "4",
+                    "name": "academics",
+                    "url": "",
+                    "submenu": [{
+                            "id": "1",
+                            "name": "e-resources",
+                            "url": "/department/eresource_csm.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "syllabus",
+                            "url": "/department/syllabus_csm.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "library",
+                            "url": "/department/library_csm.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "4",
+                            "name": "Time Tables",
+                            "url": "/department/timetable_csm.php",
+                            "submenu": ""
+                        }
+                    ]
+
+                },
+
+                {
+                    "id": "5",
+                    "name": "events",
+                    "url": "/department/events_csm.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "6",
+                    "name": "facilities",
+                    "url": "/department/facilities_csm.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "7",
+                    "name": "publications",
+                    "url": "/department/publication_csm.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "8",
+                    "name": "contactus",
+                    "url": "/department/contactus_csm.php",
+                    "submenu": ""
+
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "csd",
+            "url": "",
+            "submenu": [{
+                    "id": "1",
+                    "name": "about csd",
+                    "url": "/department/about_csd.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "2",
+                    "name": "faculty",
+                    "url": "/department/faculty_csd.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "3",
+                    "name": "achievements",
+                    "url": "",
+                    "submenu": [{
+                            "id": "1",
+                            "name": "Students Achievements",
+                            "url": "/department/achievestu_csd.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "Faculty Achievements",
+                            "url": "/department/achievefac_csd.php",
+                            "submenu": ""
+                        }
+                    ]
+                },
+                {
+
+                    "id": "4",
+                    "name": "academics",
+                    "url": "",
+                    "submenu": [{
+                            "id": "1",
+                            "name": "e-resources",
+                            "url": "/department/eresource_csd.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "syllabus",
+                            "url": "/department/syllabus_csd.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "library",
+                            "url": "/department/library_csd.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "4",
+                            "name": "Time Tables",
+                            "url": "/department/timetable_csd.php",
+                            "submenu": ""
+                        }
+                    ]
+
+                },
+
+                {
+                    "id": "5",
+                    "name": "events",
+                    "url": "/department/events_csd.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "6",
+                    "name": "facilities",
+                    "url": "/department/facilities_csd.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "7",
+                    "name": "publications",
+                    "url": "/department/publication_csd.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "8",
+                    "name": "contactus",
+                    "url": "/department/contactus_csd.php",
+                    "submenu": ""
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "it",
+            "url": "",
+            "submenu": [{
+                    "id": "1",
+                    "name": "about it",
+                    "url": "/department/about_it.php",
+                    "submenu": ""
+
+                },
+                {
+                    "id": "2",
+                    "name": "faculty",
+                    "url": "/department/faculty_it.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "3",
+                    "name": "achievements",
+                    "url": "",
+                    "submenu": [{
+                            "id": "1",
+                            "name": "Students Achievements",
+                            "url": "/department/achievestu_it_2019-20.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "Faculty Achievements",
+                            "url": "/department/achievefac_it.php",
+                            "submenu": ""
+                        }
+                    ]
+                },
+
+                {
+
+                    "id": "4",
+                    "name": "academics",
+                    "url": "",
+                    "submenu": [{
+                            "id": "1",
+                            "name": "e-resources",
+                            "url": "/department/eresource_it.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "syllabus",
+                            "url": "/department/syllabus_it.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "library",
+                            "url": "/department/library_it.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "4",
+                            "name": "timetables",
+                            "url": "/department/timetable_it.php",
+                            "submenu": ""
+                        }
+                    ]
+
+                },
+
+
+
+
+
+                {
+                    "id": "5",
+                    "name": "events",
+                    "url": "/department/events_it.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "6",
+                    "name": "facilities",
+                    "url": "/department/facilities_it.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "7",
+                    "name": "publications",
+                    "url": "/department/publication_it.php",
+                    "submenu": ""
+                },
+
+
+                {
+                    "id": "8",
+                    "name": "contactus",
+                    "url": "/department/contactus_it.php",
+                    "submenu": ""
+
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "ece",
+            "url": "",
+            "submenu": [{
+                    "id": "1",
+                    "name": "about ece",
+                    "url": "/department/about_ece.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "2",
+                    "name": "faculty",
+                    "url": "/department/faculty_ece.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "3",
+                    "name": "achievements",
+                    "url": "",
+                    "submenu": [{
+                            "id": "1",
+                            "name": "Students Achievements",
+                            "url": "/department/achievestu_ece_2019-20.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "Faculty Achievements",
+                            "url": "/department/achievefac_ece.php",
+                            "submenu": ""
+                        }
+                    ]
+                },
+
+                {
+
+                    "id": "4",
+                    "name": "academics",
+                    "url": "",
+                    "submenu": [{
+                            "id": "1",
+                            "name": "e-resources",
+                            "url": "/department/eresource_ece.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "syllabus",
+                            "url": "/department/syllabus_ece.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "library",
+                            "url": "/department/library_ece.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "4",
+                            "name": "time tables",
+                            "url": "/department/timetable_ece.php",
+                            "submenu": ""
+                        }
+                    ]
+
+                },
+                {
+                    "id": "5",
+                    "name": "events",
+                    "url": "/department/events_ece.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "6",
+                    "name": "facilities",
+                    "url": "/department/facilities_ece.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "7",
+                    "name": "publications",
+                    "url": "/department/publication_ece.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "8",
+                    "name": "contactus",
+                    "url": "/department/contactus_ece.php",
+                    "submenu": ""
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "eie",
+            "url": "",
+            "submenu": [{
+                    "id": "1",
+                    "name": "about eie",
+                    "url": "/department/about_eie.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "2",
+                    "name": "faculty",
+                    "url": "/department/faculty_eie.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "3",
+                    "name": "achievements",
+                    "url": "",
+                    "submenu": [{
+                            "id": "1",
+                            "name": "Students Achievements",
+                            "url": "/department/achievestu_eie.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "Faculty Achievements",
+                            "url": "/department/achievefac_eie.php",
+                            "submenu": ""
+                        }
+                    ]
+                },
+
+                {
+
+                    "id": "4",
+                    "name": "academics",
+                    "url": "",
+                    "submenu": [{
+                            "id": "1",
+                            "name": "e-resources",
+                            "url": "/department/eresource_eie.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "syllabus",
+                            "url": "/department/syllabus_eie.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "library",
+                            "url": "/department/library_eie.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "4",
+                            "name": "timetablles",
+                            "url": "/department/timetale_eie.php",
+                            "submenu": ""
+                        }
+
+                    ]
+
+                },
+                {
+                    "id": "5",
+                    "name": "events",
+                    "url": "/department/events_eie.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "6",
+                    "name": "facilities",
+                    "url": "/department/facilities_eie.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "7",
+                    "name": "publications",
+                    "url": "/department/publication_eie.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "8",
+                    "name": "contactus",
+                    "url": "/department/contactus_eie.php",
+                    "submenu": ""
+
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "h&s",
+            "url": "",
+            "submenu": [{
+                    "id": "1",
+                    "name": "about h&s",
+                    "url": "/department/about_hs.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "2",
+                    "name": "faculty",
+                    "url": "/department/faculty_hs.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "3",
+                    "name": "achievements",
+                    "url": "",
+                    "submenu": [{
+                            "id": "1",
+                            "name": "Students Achievements",
+                            "url": "/department/achievestu_hs.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "Faculty Achievements",
+                            "url": "/department/achievefac_hs.php",
+                            "submenu": ""
+                        }
+                    ]
+                },
+
+
+
+                {
+
+                    "id": "4",
+                    "name": "acdemics",
+                    "url": "",
+                    "submenu": [{
+                            "id": "1",
+                            "name": "e-resources",
+                            "url": "/department/eresource_hs.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "2",
+                            "name": "syllabuss",
+                            "url": "/department/syllabus_hs.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "3",
+                            "name": "library",
+                            "url": "/department/library_hs.php",
+                            "submenu": ""
+                        },
+                        {
+                            "id": "4",
+                            "name": "time tables",
+                            "url": "/department/timetable_hs.php",
+                            "submenu": ""
+                        }
+                    ]
+
+                },
+                {
+                    "id": "5",
+                    "name": "events",
+                    "url": "/department/events_hs.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "6",
+                    "name": "facilities",
+                    "url": "/department/facilities_hs.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "7",
+                    "name": "publications",
+                    "url": "/department/publication_hs.php",
+                    "submenu": ""
+                },
+
+                {
+                    "id": "8",
+                    "name": "contactus",
+                    "url": "/department/contactus_hs.php",
+                    "submenu": ""
+
+                }
+            ]
+        }
+
+    ],
+    "research": [{
+            "id": "1",
+            "name": "About  Research",
+            "url": "",
+            "submenu": ""
+        },
+        {
+            "id": "2",
+            "name": "Incubation Center",
+            "url": "",
+            "submenu": [{
+                    "id": "1",
+                    "name": "Bio Medical Imaging",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "2",
+                    "name": "Bio Informatics",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "3",
+                    "name": "CFD",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "4",
+                    "name": "IoT",
+                    "url": "",
+                    "submenu": ""
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Research Labs",
+            "url": "",
+            "submenu": [{
+                    "id": "1",
+                    "name": "nVIDIA Lab",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "2",
+                    "name": "cluster",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "3",
+                    "name": "virtusa",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "4",
+                    "name": "Adobe AEM",
+                    "url": "",
+                    "submenu": ""
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Sponsored Research",
+            "url": "",
+            "submenu": [{
+                    "id": "1",
+                    "name": "BIRAC",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "2",
+                    "name": "AutoEducational Tools",
+                    "url": "",
+                    "submenu": ""
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Consultancy Projects",
+            "url": "",
+            "submenu": [{
+                    "id": "1",
+                    "name": "MP Polics Project",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "2",
+                    "name": "AP Police Project",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "3",
+                    "name": "Other Projects",
+                    "url": "",
+                    "submenu": ""
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Paper Publications",
+            "url": "",
+            "submenu": [{
+                    "id": "1",
+                    "name": "Publication Policy",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "2",
+                    "name": "Review Proceedings",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "3",
+                    "name": "e-Resources",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "4",
+                    "name": "Publication Committee Members",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "5",
+                    "name": "List of Publications",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "6",
+                    "name": "Re-Imbursement Form",
+                    "url": "",
+                    "submenu": ""
+                },
+                {
+                    "id": "7",
+                    "name": "Code of Ethics",
+                    "url": "",
+                    "submenu": ""
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Research Workshops/Seminars",
+            "url": "",
+            "submenu": ""
+        },
+        {
+            "id": "8",
+            "name": "Industry Interaction Cell",
+            "url": "",
+            "submenu": ""
+        },
+        {
+            "id": "9",
+            "name": "Internships",
+            "url": "",
+            "submenu": ""
+        },
+        {
+            "id": "10",
+            "name": "GSOC",
+            "url": "",
+            "submenu": ""
+        }
+    ],
+
+    "infrastructure": [{
+            "id": "1",
+            "name": "library",
+            "url": "",
+            "submenu": [{
+                    "id": "1",
+                    "name": "about library",
+                    "url": "/infrastructure/aboutLib.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "2",
+                    "name": "E-resources",
+                    "url": "/infrastructure/e_resource.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "3",
+                    "name": "general rules of library",
+                    "url": "/infrastructure/general_rules.php",
+                    "submenu": ""
+                },
+                {
+                    "id": "4",
+                    "name": "nptel video",
+                    "url": "",
+                    "submenu": ""
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "labs",
+            "url": "/infrastructure/Infrastructure_lab.php",
+            "submenu": ""
+        },
+        {
+            "id": "3",
+            "name": "sports facilities",
+            "url": "/infrastructure/sportsfacilities.php",
+            "submenu": ""
+        },
+        {
+            "id": "4",
+            "name": "auditorium",
+            "url": "/infrastructure/auditorium.php",
+            "submenu": ""
+        },
+        {
+            "id": "5",
+            "name": "class rooms & seminar halls",
+            "url": "/infrastructure/classroom.php",
+            "submenu": ""
+        }
+    ],
+    "placements": [{
+        "id": "1",
+        "name": "placements",
+        "url": "",
+        "submenu": ""
+    }],
+    "initiatives": [{
+            "id": "1",
+            "name": "co-curricular",
+            "url": "/intiatives/intiatives_coCircular.php",
+            "submenu": ""
+        },
+        {
+            "id": "2",
+            "name": "extra-curricular",
+            "url": "",
+            "submenu": [{
+
+                    "id": "1",
+                    "name": "Student Council",
+                    "url": "/intiatives/studentcouncil.php",
+                    "submenu": ""
+                },
+                {
+
+                    "id": "2",
+                    "name": "Clubs",
+                    "url": "/intiatives/Clubs.php",
+                    "submenu": ""
+                }
+
+            ]
+        },
+        {
+
+            "id": "3",
+            "name": "KMIT Parishad Society",
+            "url": "/alumni/alumni.php",
+            "submenu": ""
+        }
+    ],
+
+    "uniqueness": [{
+            "id": "1",
+            "name": "tessellator",
+            "url": "/uniq/tes.php",
+            "submenu": ""
+        },
+        {
+            "id": "2",
+            "name": "kmitra",
+            "url": "/uniq/kmitra.php",
+            "submenu": ""
+        },
+        {
+            "id": "3",
+            "name": "sanjaya app",
+            "url": "/uniq/sanjaya.php",
+            "submenu": ""
+        },
+        {
+            "id": "4",
+            "name": "drona app",
+            "url": "/uniq/drona.php",
+            "submenu": ""
+        },
+        {
+            "id": "5",
+            "name": "netra app",
+            "url": "/uniq/netra.php",
+            "submenu": ""
+        },
+        {
+            "id": "6",
+            "name": "teleuniv",
+            "url": "/uniq/teleuniv.php",
+            "submenu": ""
+        },
+        {
+            "id": "7",
+            "name": "kmit tv",
+            "url": "/uniq/kmittv.php",
+            "submenu": ""
+        }
+    ],
+    "iqac": [
+
+        {
+
+            "id": "1",
+            "name": "iqac",
+            "url": "/iqac/iqac.php",
+            "submenu": ""
+        }
+
+    ],
+    "nirf": [{
+            "id": "1",
+            "name": "2020",
+            "url": "/nirf/nirf_2020.pdf",
+            "submenu": ""
+        },
+        {
+            "id": "2",
+            "name": "2019",
+            "url": "/nirf/nirf_2019.pdf",
+            "submenu": ""
+        },
+        {
+            "id": "3",
+            "name": "2018",
+            "url": "/nirf/nirf_2018.pdf",
+            "submenu": ""
+        }
+    ]
+}

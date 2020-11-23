@@ -1,0 +1,338 @@
+{
+"Endowment Awards-2019":
+[
+{
+"id": "1",
+"RollNumber": "15BD1A0440",
+"StudentName": "PERI VENKATA GAYATHR",
+"AwardName": "Maharishi Dayanand Saraswati",
+"AwardFor": "College Topper"
+},
+{
+"id": "2",
+"RollNumber": "15BD1A0440",
+"StudentName": "PERI VENKATA GAYATHRI",
+"AwardName": "Keshava Rao Koratkar",
+"AwardFor": "ECE A Topper"
+},
+{
+"id": "3",
+"RollNumber": "15BD1A0485",
+"StudentName": "KONGARA SANTHOSHI",
+"AwardName": "Keshava Rao Koratkar",
+"AwardFor": "ECE B Topper"
+},
+{
+"id": "4",
+"RollNumber": "15BD1A050N",
+"StudentName": "S P ANUSHA",
+"AwardName": "Vinayak Rao Vidyalankar Koratkar",
+"AwardFor": "CSE A Topper"
+},
+{
+"id": "5",
+"RollNumber": "15BD1A0531",
+"StudentName": "MYSORE MANASWINI",
+"AwardName": "Vinayak Rao Vidyalankar Koratkar",
+"AwardFor": "CSE B Topper"
+},
+{
+"id": "6",
+"RollNumber": "15BD1A054U",
+"StudentName": "CHAMARTHI SIRISHA",
+"AwardName": "Vinayak Rao Vidyalankar Koratkar",
+"AwardFor": "CSE C Topper"
+},
+{
+"id": "7",
+"RollNumber": "15BD1A056Z",
+"StudentName": "SHAIK SIMRAN",
+"AwardName": "Vinayak Rao Vidyalankar Koratkar",
+"AwardFor": "CSE D Topper"
+},
+{
+"id": "8",
+"RollNumber": "15BD1A0591",
+"StudentName": "PANDALA JAHANAVI",
+"AwardName": "Vinayak Rao Vidyalankar Koratkar",
+"AwardFor": "CSE E Topper"
+},
+{
+"id": "9",
+"RollNumber": "15BD1A05AC",
+"StudentName": "GOLANAKONDA SRIKANTH",
+"AwardName": "Vinayak Rao Vidyalankar Koratkar",
+"AwardFor": "CSE F Topper"
+},
+{
+"id": "10",
+"RollNumber": "15BD1A05D9",
+"StudentName": "PRATHYUSHA GANGAPURAM",
+"AwardName": "Vinayak Rao Vidyalankar Koratkar",
+"AwardFor": "CSE G Topper"
+},
+{
+"id": "11",
+"RollNumber": "15BD1A1244",
+"StudentName": "NAVYA TUBATI",
+"AwardName": "Narayan Rao Pawar",
+"AwardFor": "IT Topper"
+},
+{
+"id": "12",
+"RollNumber": "15BD1A1035",
+"StudentName": "LIKKY NITISHA",
+"AwardName": "Justice Gopal Rao Ekbote",
+"AwardFor": "EIE Topper"
+},
+{
+"id": "13",
+"RollNumber": "15BD1A058J",
+"StudentName": "MEETA KAPOOR",
+"AwardName": "Smt. Jayashree Gogte",
+"AwardFor": "Best Girl Student"
+},
+{
+"id": "14",
+"RollNumber": "15BD1A0555",
+"StudentName": "EVANA LAXMI PRIYA",
+"AwardName": "Dr. Pandit Rao Palnitkar",
+"AwardFor": "Best Outgoing Student"
+},
+{
+"id": "15",
+"RollNumber": "15BD1A05DN",
+"StudentName": "AZAMUDDIN ANSARI",
+"AwardName": "Hari Hara Sharma",
+"AwardFor": "Best Orator"
+}
+],
+"Endowment Awards-2018":[
+{
+"id": "1",
+"RollNumber": "14BD1A1049",
+"StudentName": "PRIYANKA MODANI",
+"AwardName": "Maharishi Dayanand Saraswati",
+"AwardFor": "College Topper"
+},
+{
+"id": "2",
+"RollNumber": "14BD1A0406",
+"StudentName": "BACHU ABHILASH",
+"AwardName": "Keshava Rao Koratkar",
+"AwardFor": "ECE 1st Rank"
+},
+{
+"id": "3",
+"RollNumber": "14BD1A0452",
+"StudentName": "S BHARAT BUSHAN",
+"AwardName": "Keshava Rao Koratkar",
+"AwardFor": "ECE 2nd Rank"
+},
+{
+"id": "4",
+"RollNumber": "14BD1A0455",
+"StudentName": "TAKKELLAPATI YAMITHA SURYA",
+"AwardName": "Keshava Rao Koratkar",
+"AwardFor": "ECE 2nd Rank"
+},
+{
+"id": "5",
+"RollNumber": "14BD1A05BV",
+"StudentName": "SAGAR VARMA",
+"AwardName": "Vinayak Rao Vidyalankar Koratkar",
+"AwardFor": "CSE 1st Rank"
+},
+{
+"id": "6",
+"RollNumber": "14BD1A058T",
+"StudentName": "MUNJULURU VAISHNAVI",
+"AwardName": "Vinayak Rao Vidyalankar Koratkar",
+"AwardFor": "CSE 2nd Rank"
+},
+{
+"id": "7",
+"RollNumber": "14BD1A058T",
+"StudentName": "MUNJULURU VAISHNAVI",
+"AwardName": "Vinayak Rao Vidyalankar Koratkar",
+"AwardFor": "CSE 3rd Rank"
+},
+{
+"id": "8",
+"RollNumber": "14BD1A1206",
+"StudentName": "AMRUTHA VALLI SALIKE",
+"AwardName": "Narayan Rao Pawar",
+"AwardFor": "IT 1st Rank"
+},
+{
+"id": "9",
+"RollNumber": "14BD1A1201",
+"StudentName": "A C SHREYA DEVI",
+"AwardName": "Narayan Rao Pawar",
+"AwardFor": "IT 2nd Rank"
+},
+{
+"id": "10",
+"RollNumber": "14BD1A1203",
+"StudentName": "AITHA ABHISARIKA",
+"AwardName": "Narayan Rao Pawar",
+"AwardFor": "IT 3rd Rank"
+},
+{
+"id": "11",
+"RollNumber": "14BD1A1049",
+"StudentName": "PRIYANKA MODANI",
+"AwardName": "Justice Gopal Rao Ekbote",
+"AwardFor": "EIE 1st Rank"
+},
+{
+"id": "12",
+"RollNumber": "14BD1A1026",
+"StudentName": "KASOJU RASHMI",
+"AwardName": "Justice Gopal Rao Ekbote",
+"AwardFor": "EIE 2nd Rank"
+},
+{
+"id": "13",
+"RollNumber": "14BD1A1001",
+"StudentName": "A LAXMI PRASANNA",
+"AwardName": "Justice Gopal Rao Ekbote",
+"AwardFor": "EIE 3rd Rank"
+},
+{
+"id": "14",
+"RollNumber": "14BD1A052Q",
+"StudentName": "MALLAM SRIPOOJA",
+"AwardName": "Smt. Jayashree Gogte",
+"AwardFor": "Best Girl Student"
+},
+{
+"id": "15",
+"RollNumber": "14BD1A052S",
+"StudentName": "MANISHA RAO",
+"AwardName": "Dr. Pandit Rao Palnitkar",
+"AwardFor": "Best Outgoing Student"
+},
+{
+"id": "16",
+"RollNumber": "14BD1A0521",
+"StudentName": "AURANGABADKAR MOHAK",
+"AwardName": "Hari Hara Sharma",
+"AwardFor": "Best Orator"
+}
+],
+"Endowment Awards-2017":[
+{
+"id": "1",
+"RollNumber": "13BD1A0432",
+"StudentName": "M CHANDRA SHEKAR",
+"AwardName": "Maharishi Dayanand Saraswati",
+"AwardFor": "College Topper"
+},
+{
+"id": "2",
+"RollNumber": "13BD1A0432",
+"StudentName": "M CHANDRA SHEKAR",
+"AwardName": "Keshava Rao Koratkar",
+"AwardFor": "ECE 1st Rank"
+},
+{
+"id": "3",
+"RollNumber": "13BD1A0409",
+"StudentName": "C VIMAL",
+"AwardName": "Keshava Rao Koratkar",
+"AwardFor": "ECE 2nd Rank"
+},
+{
+"id": "4",
+"RollNumber": "13BD1A0451",
+"StudentName": "TANUSHREE CHUNGI",
+"AwardName": "Keshava Rao Koratkar",
+"AwardFor": "ECE 3rd Rank"
+},
+{
+"id": "5",
+"RollNumber": "13BD1A0516",
+"StudentName": "GANNU SAIMATHA",
+"AwardName": "Vinayak Rao Vidyalankar Koratkar",
+"AwardFor": "CSE 1st Rank"
+},
+{
+"id": "6",
+"RollNumber": "13BD1A0517",
+"StudentName": "GUNDALA PRAVEENA",
+"AwardName": "Vinayak Rao Vidyalankar Koratkar",
+"AwardFor": "CSE 2nd Rank"
+},
+{
+"id": "7",
+"RollNumber": "13BD1A0502",
+"StudentName": "AKANKSHA BODHANKAR",
+"AwardName": "Vinayak Rao Vidyalankar Koratkar",
+"AwardFor": "CSE 3rd Rank"
+},
+{
+"id": "8",
+"RollNumber": "13BD1A1232",
+"StudentName": "A NIYATI SHAH",
+"AwardName": "Narayan Rao Pawar",
+"AwardFor": "IT 1st Rank"
+},
+{
+"id": "7",
+"RollNumber": "13BD1A1226",
+"StudentName": "MANDAVALLI DURGA LAVANYA",
+"AwardName": "Narayan Rao Pawar",
+"AwardFor": "IT 2nd Rank"
+},
+{
+"id": "8",
+"RollNumber": "13BD1A1211",
+"StudentName": "DODLAPATI SHAILAJA",
+"AwardName": "Narayan Rao Pawar",
+"AwardFor": "IT 3rd Rank"
+},
+{
+"id": "9",
+"RollNumber": "13BD1A1003",
+"StudentName": "ANIRUDH NYALKALKAR",
+"AwardName": "Justice Gopal Rao Ekbote",
+"AwardFor": "EIE 1st Rank"
+},
+{
+"id": "10",
+"RollNumber": "13BD1A1004",
+"StudentName": "AVASARALA SAI SRUTI BALA",
+"AwardName": "Justice Gopal Rao Ekbote",
+"AwardFor": "EIE 2nd Rank"
+},
+{
+"id": "11",
+"RollNumber": "13BD1A1026",
+"StudentName": "LAKSHMI LAHARI DUVVURI",
+"AwardName": "Justice Gopal Rao Ekbote",
+"AwardFor": "EIE 3rd Rank"
+},
+{
+"id": "12",
+"RollNumber": "13BD1A0502",
+"StudentName": "AKANKSHA BODHANKAR",
+"AwardName": "Smt. Jayashree Gogte",
+"AwardFor": "Best Girl Student"
+},
+{
+"id": "13",
+"RollNumber": "13BD1A0560",
+"StudentName": "YADDANAPUDI SRI DIVYA",
+"AwardName": "Dr. Pandit Rao Palnitkar",
+"AwardFor": "Best Outgoing Student"
+},
+{
+"id": "14",
+"RollNumber": "13BD1A1238",
+"StudentName": "PRAHARSHITA KRISHNA",
+"AwardName": "Hari Hara Sharma",
+"AwardFor": "Best Orator"
+}
+]
+}

@@ -1,0 +1,14 @@
+.blink_me[_ngcontent-c1] {
+    animation: blinker 1s linear infinite;
+  }
+
+  @keyframes blinker {
+    from {
+      color: #e65050;
+      font-weight: normal;
+    }
+    to {
+      color: #fa0000;
+      font-weight: bold;
+    }
+  }

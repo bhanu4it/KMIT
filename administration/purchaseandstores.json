@@ -1,0 +1,16 @@
+{"Purchase-and-Stores-Committee":
+[
+{
+    "id": "1",
+    "MemberName": "Dr. Maheshwar Dutta",
+    "Dept": "Principal",
+    "Position": "Convener"
+},
+{
+    "id": "2",
+    "MemberName": "test",
+    "Dept": "--",
+    "Position": "--"
+}
+]
+}

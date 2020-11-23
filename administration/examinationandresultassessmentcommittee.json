@@ -1,0 +1,16 @@
+{"ExaminationandResult-Assessment-Committee":
+[
+{
+    "id": "1",
+    "MemberName": "Ms Sita kameshwari",
+    "Dept": "CSE",
+    "Position": "Convener"
+},
+{
+    "id": "2",
+    "MemberName": "test",
+    "Dept": "--",
+    "Position": "--"
+}
+]
+}
